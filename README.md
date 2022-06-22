@@ -15,7 +15,7 @@ Use Knn imputation to deal with the missing data
 Use SMOTE to deal with imbalanced situation of the target variable.
 Use Log1p to transform the important feature into normal distribution.
 
-For the models:
+## For the models:
 Use hyperparameters tuning to optimize data. And use grid search in the hyperparameter tuning.
 
 In the whole process, I will show how towith overfitting by using separate and different approaches.
